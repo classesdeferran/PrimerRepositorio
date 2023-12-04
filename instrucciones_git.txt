@@ -1,0 +1,12 @@
+Para iniciar git:
+git init
+
+Configuración:
+$ git config --global user.name "Ferran"
+git config --global user.email ferran.docencia@gmail.com
+git config --global core.editor "code --wait"
+git config --global core.autocrlf true
+
+
+
+
