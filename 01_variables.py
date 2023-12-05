@@ -1,5 +1,8 @@
 # Crear una variable en Python
 nombre = "Anna" # tipo String
+nombre2 = 'Anna'
+frase = "I'm the best"
+frase2 = 'Me dijo "Hola"'
 numero1 = 10
 numero2 = 10.5
 booleano1 = True
