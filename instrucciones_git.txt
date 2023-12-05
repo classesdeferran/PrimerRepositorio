@@ -13,6 +13,7 @@ git add nombre_fichero
 Pasar a la fase commit
 git commit -m "Mensaje para saber qué hemos hecho"
 
+
 git push -u origin main
 
 

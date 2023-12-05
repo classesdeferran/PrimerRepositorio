@@ -1,0 +1,8 @@
+Vamos a preguntar al usuario cuantos segundos
+y vamos a decirle cuantas horas, minutos y segundos son
+
+Por ejemplo:
+3601
+1 horas 0 minutos 1 segundos
+3662
+1 horas 1 minutos 2 segundos
